@@ -76,3 +76,16 @@ footer {
   color: #fff;
   margin-top: 2rem;
 }
+
+/*
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+    nav a {
+        display: block;
+        margin: 10px 0;
+    }
+}
+
+*/
